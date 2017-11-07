@@ -6,7 +6,7 @@
 
     <groupId>marco.manzalini</groupId>
     <artifactId>spring-boot-docker-sample</artifactId>
-    <version>1.0-SNAPSHOT</version>v
+    <version>1.0-SNAPSHOT</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
